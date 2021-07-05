@@ -1,3 +1,7 @@
+Link to app: https://agitated-curran-439eda.netlify.app/
+
+![Capture](https://user-images.githubusercontent.com/52904509/124415685-fcaae300-dd72-11eb-9317-3e7d07e4544b.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
