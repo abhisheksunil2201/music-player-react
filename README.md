@@ -1,4 +1,22 @@
-Link to app: https://agitated-curran-439eda.netlify.app/
+# Waves Music Application
+
+This is a web music player developed to play your favourite music online.
+
+
+## Demo
+
+https://agitated-curran-439eda.netlify.app/
+
+  
+## Tech Stack
+
+**Client:** React, MaterialUI
+
+## Deployment
+
+Netlify
+
+## Screenshots
 
 ![Capture](https://user-images.githubusercontent.com/52904509/124415685-fcaae300-dd72-11eb-9317-3e7d07e4544b.PNG)
 
